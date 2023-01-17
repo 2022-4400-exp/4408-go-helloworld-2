@@ -15,5 +15,5 @@ spec:
         app: go-helloworld-2
     spec:
       containers:
-      - image: 031201/go-helloworld-2
+      - image: 90ec28765f193b3dda6db0216ef7bfd3a1d59b8a
         name: go-helloworld-2
